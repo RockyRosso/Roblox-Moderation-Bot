@@ -17,8 +17,8 @@ Roblox Moderation Bot is a Discord bot that allows you to ban, and unban players
 - ![image](https://user-images.githubusercontent.com/79947006/169514878-118768ce-6d9d-494f-83d2-adf9fdb0cef6.png)
 - Upon adding your experience, you'll be prompted to add operations. Here are some recommended operations I recommend in order for the bot to work at it's fullest
 ![image](https://user-images.githubusercontent.com/79947006/169515235-bc060a19-ca8b-4530-9bb4-edf91c31a9e3.png)
-- After selecting your perfered operations, sroll down to security. If you're planning to self host this bot, enter you're IP address into the Accepted IP Addresses. If you're planning to host the bot on a third party hosting service, enter in the following
-![image](https://user-images.githubusercontent.com/79947006/169515574-af9bc41c-ba33-466a-94e6-7653cca7bf46.png)
+- After selecting your preferred operations, sroll down to security. If you're planning to self host this bot, enter you're IP address into the Accepted IP Addresses. If you're planning to host the bot on a third party hosting service, enter in the following
+![image](https://user-images.githubusercontent.com/79947006/169516339-cebce68b-dbf4-486e-a655-c7544ed2fc70.png)
 - After you enter an IP address, click on _Save & Generate Key_
 - You'll then be prompted to copy your API key to your clipboard. Remember that Roblox will not store the API key, meaning if you exit out of the API key settings or refresh the page, you'll no longer be able to access it
 ![image](https://user-images.githubusercontent.com/79947006/169515873-de267348-a0b9-4219-ac42-bc77adc83dc5.png)
