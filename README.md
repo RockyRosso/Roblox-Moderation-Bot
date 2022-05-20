@@ -1,5 +1,5 @@
-![Roblox Moderation Icon](https://user-images.githubusercontent.com/79947006/169512230-6fd9de22-61c8-4b68-b907-912206beca67.png)
 # Roblox-Moderation-Bot
+![Roblox Moderation Icon](https://user-images.githubusercontent.com/79947006/169512230-6fd9de22-61c8-4b68-b907-912206beca67.png)
 ## What is this?
 Roblox Moderation Bot is a Discord bot that allows you to ban, and unban players from your game straight from Discord. There are currently only two moderation commands: Ban, and Unban. There might be more commands coming soon.
 
